@@ -1,6 +1,6 @@
 Git adalah salah satu sistem pengontrol versi (Version Control System) pada proyek perangkat lunak yang diciptakan oleh Linus Torvalds.
 Apa yang dilakukan oleh Git?
-Git sebenarnya akan memantau semua perubahan yang terjadi pada file proyek. Lalu menyimpannya ke dalam database
-Git adalah sebuah 
-Deployment adalah istilah yang mencakup semua proses yang terlibat dalam mendapatkan software (perangkat lunak) atau hardware (perangkat keras) baru dan berjalan dengan baik di lingkungannya, termasuk instalasi, konfigurasi, pengoperasian, pengujian dan membuat perubahan yang diperlukan.
 
+Git sebenarnya akan memantau semua perubahan yang terjadi pada file proyek. Lalu menyimpannya ke dalam database.
+git adalah bagian yang terdapat pada suatu
+Deployment adalah
