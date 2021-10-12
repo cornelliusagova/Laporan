@@ -2,4 +2,5 @@ Git adalah salah satu sistem pengontrol versi (Version Control System) pada proy
 Apa yang dilakukan oleh Git?
 Git sebenarnya akan memantau semua perubahan yang terjadi pada file proyek. Lalu menyimpannya ke dalam database
 Git adalah sebuah 
-Deployment adalah
+Deployment adalah istilah yang mencakup semua proses yang terlibat dalam mendapatkan software (perangkat lunak) atau hardware (perangkat keras) baru dan berjalan dengan baik di lingkungannya, termasuk instalasi, konfigurasi, pengoperasian, pengujian dan membuat perubahan yang diperlukan.
+
